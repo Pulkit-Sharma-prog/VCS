@@ -151,3 +151,5 @@ git commit -m "docs: update README with installation steps"
 - **npm** v7+
 - All devices on the **same WiFi/LAN network**
 - Modern browser (Chrome, Firefox, Edge)
+## Quick Start
+Run `npm install` then `node server.js` to start.
